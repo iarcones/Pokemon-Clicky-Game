@@ -1,13 +1,13 @@
 {
-  "main.css": "/iarcones/Pokemon-Clicky-Game/static/css/main.d539a740.chunk.css",
-  "main.js": "/iarcones/Pokemon-Clicky-Game/static/js/main.b67f9022.chunk.js",
-  "main.js.map": "/iarcones/Pokemon-Clicky-Game/static/js/main.b67f9022.chunk.js.map",
-  "static/js/1.9c49b165.chunk.js": "/iarcones/Pokemon-Clicky-Game/static/js/1.9c49b165.chunk.js",
-  "static/js/1.9c49b165.chunk.js.map": "/iarcones/Pokemon-Clicky-Game/static/js/1.9c49b165.chunk.js.map",
-  "runtime~main.js": "/iarcones/Pokemon-Clicky-Game/static/js/runtime~main.0b11f24f.js",
-  "runtime~main.js.map": "/iarcones/Pokemon-Clicky-Game/static/js/runtime~main.0b11f24f.js.map",
-  "static/css/main.d539a740.chunk.css.map": "/iarcones/Pokemon-Clicky-Game/static/css/main.d539a740.chunk.css.map",
-  "index.html": "/iarcones/Pokemon-Clicky-Game/index.html",
-  "precache-manifest.f7b7874330f7d3ddc4284380dbb1a8f9.js": "/iarcones/Pokemon-Clicky-Game/precache-manifest.f7b7874330f7d3ddc4284380dbb1a8f9.js",
-  "service-worker.js": "/iarcones/Pokemon-Clicky-Game/service-worker.js"
+  "main.css": "/Pokemon-Clicky-Game/static/css/main.d539a740.chunk.css",
+  "main.js": "/Pokemon-Clicky-Game/static/js/main.b67f9022.chunk.js",
+  "main.js.map": "/Pokemon-Clicky-Game/static/js/main.b67f9022.chunk.js.map",
+  "static/js/1.9c49b165.chunk.js": "/Pokemon-Clicky-Game/static/js/1.9c49b165.chunk.js",
+  "static/js/1.9c49b165.chunk.js.map": "/Pokemon-Clicky-Game/static/js/1.9c49b165.chunk.js.map",
+  "runtime~main.js": "/Pokemon-Clicky-Game/static/js/runtime~main.5d128305.js",
+  "runtime~main.js.map": "/Pokemon-Clicky-Game/static/js/runtime~main.5d128305.js.map",
+  "static/css/main.d539a740.chunk.css.map": "/Pokemon-Clicky-Game/static/css/main.d539a740.chunk.css.map",
+  "index.html": "/Pokemon-Clicky-Game/index.html",
+  "precache-manifest.a8e53a26ee0424d4eeec0e50d5ad7669.js": "/Pokemon-Clicky-Game/precache-manifest.a8e53a26ee0424d4eeec0e50d5ad7669.js",
+  "service-worker.js": "/Pokemon-Clicky-Game/service-worker.js"
 }

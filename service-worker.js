@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/iarcones/Pokemon-Clicky-Game/precache-manifest.f7b7874330f7d3ddc4284380dbb1a8f9.js"
+  "/Pokemon-Clicky-Game/precache-manifest.a8e53a26ee0424d4eeec0e50d5ad7669.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/iarcones/Pokemon-Clicky-Game/index.html", {
+workbox.routing.registerNavigationRoute("/Pokemon-Clicky-Game/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

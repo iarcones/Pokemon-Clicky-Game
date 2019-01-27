@@ -1,0 +1,15 @@
+
+.title {
+  padding-top: 100px;
+  min-height: 70px;
+  text-align: center;
+  color: purple;
+  font-size: calc(10px + 14 * (100vw - 320px)/ 800);
+  font-family: "Helvetica Neue",Arial,sans-serif;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+
+
+

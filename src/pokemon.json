@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Pikachu",
+    "image": "https://clipart.info/images/ccovers/1528080662pikachu-transparent-pokemon-png-hd.png"
+  },
+  {
+    "id": 2,
+    "name": "Eevee",
+    "image": "http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c31c.png",
+    "occupation": "Restaurant Owner"
+  },
+  {
+    "id": 3,
+    "name": "Bulbasaur",
+    "image": "http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c31a.png"
+
+  },
+  {
+    "id": 4,
+    "name": "Caterpie",
+    "image": "https://vignette.wikia.nocookie.net/nintendo/images/0/05/Caterpie.png/revision/20141002083123?path-prefix=en"
+  },
+  {
+    "id": 5,
+    "name": "Squirtle",
+    "image": "http://purepng.com/public/uploads/large/purepng.com-pokemonpokemonpocket-monsterspokemon-franchisefictional-speciesone-pokemonmany-pokemonone-pikachu-1701527786718xxl59.png"
+  },
+  {
+    "id": 6,
+    "name": "Fennekin",
+    "image": "https://vignette.wikia.nocookie.net/pokemon/images/f/f1/653Fennekin_Pok%C3%A9mon_Super_Mystery_Dungeon.png/revision/latest?cb=20160216050058"
+  },
+  {
+    "id": 7,
+    "name": "Spinda",
+    "image": "https://vignette.wikia.nocookie.net/fuzzboy8888-fanfiction/images/3/3b/Spinda.png/revision/latest?cb=20160818061907"
+  },
+  {
+    "id": 8,
+    "name": "Giant Bomb",
+    "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1891841-094gengar.png"
+  },
+  {
+    "id": 9,
+    "name": "Scizor",
+    "image": "https://pokemon.gameinfo.io/images/pokemon-go/212-00.png",
+    "occupation": "Adventurer",
+    "location": "California"
+  },
+  {
+    "id": 10,
+    "name": "RankedBoost",
+    "image": "https://img.rankedboost.com/wp-content/plugins/ice/pokemon-go/Milotic-Pokemon-Go.png"
+  },
+  {
+    "id": 11,
+    "name": "Jynx",
+    "image": "https://img.rankedboost.com/wp-content/uploads/2016/08/Murkrow-Pokemon-Go.png"
+  },
+  {
+    "id": 12,
+    "name": "Acooltent",
+    "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1892307-073tentacruel.png"
+  }
+]

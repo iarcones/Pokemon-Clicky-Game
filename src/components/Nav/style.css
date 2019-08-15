@@ -30,6 +30,11 @@
   text-decoration: none;
 }
 
+#message{
+  font-size: calc(14px + 14 * (100vw - 320px)/ 800);
+  color: chartreuse;
+}
+
 
 
 

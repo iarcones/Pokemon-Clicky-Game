@@ -5,7 +5,7 @@
   box-shadow: 0 0 5px 1px grey;
   position: fixed;
   color: white;
-  font-size: calc(10px + 14 * (100vw - 320px)/ 800);
+  font-size: calc(12px + 14 * (100vw - 320px)/ 800);
   font-family: "Helvetica Neue",Arial,sans-serif;
   z-index: 99;
   white-space: nowrap;
@@ -31,7 +31,7 @@
 }
 
 #message{
-  font-size: calc(14px + 14 * (100vw - 320px)/ 800);
+  font-size: calc(16px + 14 * (100vw - 320px)/ 800);
   color: chartreuse;
 }
 

@@ -27,5 +27,17 @@
   ],
   "devDependencies": {
     "gh-pages": "^2.0.1"
+  },
+  "description": "## Overview",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iarcones/Star-Wars-Clicky-Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iarcones/Star-Wars-Clicky-Game/issues"
   }
 }
